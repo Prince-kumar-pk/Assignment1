@@ -1,0 +1,10 @@
+//2. Write all commands from initialising to pushing your repo to github.
+
+
+commands from initialising to pushing your repo to github are  :
+
+git init
+git add .
+git commit -m "commit"
+git remote add origin https://github.com/xyz/abc.git 
+git push
