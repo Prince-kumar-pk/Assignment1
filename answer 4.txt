@@ -1,0 +1,11 @@
+4. Difference between static and dynamic website.
+
+
+Static
+
+A static website is basically a client-side  server  made up of a fixed number of pre-built files like HTML, CSS, and JavaScript  to stored on a web server. 
+
+
+Dynamic
+
+It accesses content from a database. when we   update the content of the database, the content of the website is also updated. Dynamic website uses client-side scripting  to generate dynamic content.
