@@ -1,7 +1,5 @@
 // 1. How we can use ssh in github and also write command to generate ssh keys in your respestive operating system.
 
-create a folder named assignment1 and write your answer in txt file and push your answer to github repo.
-R9P37PA56
 
 First of all we  generate ssh key on our operating system  in the following steps 
 
