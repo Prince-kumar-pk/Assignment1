@@ -1,0 +1,11 @@
+2. tell the difference between nodejs and javascript
+
+
+Javascript is a programming language  used for writing scripts on the website. 
+ 
+NodeJS is an environment  to run  Javascript 
+
+without nodejs javascript only run in browser 
+but with the help of node js we can run javascript outside the brouser 
+
+

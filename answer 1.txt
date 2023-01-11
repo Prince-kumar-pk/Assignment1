@@ -1,33 +1,18 @@
-// 1. How we can use ssh in github and also write command to generate ssh keys in your respestive operating system.
+1. create a new branch in your git repo names as assignment2(paste the command)
 
+command that is run to create new branch 
 
-First of all we  generate ssh key on our operating system  in the following steps 
+$ git branch  // to check the branch avalible
+* master
 
-1. opem CMD as adminstrator 
+Hp@PRINCE MINGW64 /e/Assignment (master)  
+$ git branch assignme  
+nt2 
 
-2. Run command :  ssh-keygen 
+Hp@PRINCE MINGW64 /e/Assignment (master)  
+$ git branch assignment2  // used to create the new branch 
+* master
+* assignment2 
+  master
 
-3. Presh enter and enter 
-
-Now the ssh key is generated in our OS 
-
-Go to the C drive -> user -> pc -> .ssh file 
-
- now the two file is generated one is private and the other is public 
-
-copy the  ssh key from the public file 
-
-Now open github on browser
-open setting in github 
-click on SSH and GPG key generate 
-
-click on new ssh key button 
-
-give some name and paste the ssh key there that are copyed from the system 
-
-and add it 
-
-Finally ssh ke is added to the github 
-
-
-
+Hp@PRINCE MINGW64 /e/Assignment (assignment2)$

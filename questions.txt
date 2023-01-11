@@ -1,3 +1,14 @@
 3. Deploy a static website using the same repo and add screen shot.
 4. Difference between static and dynamic website.
 5. Steps you followed to connect github repo to your local repo.
+
+
+1. create a new branch in your git repo names as assignment2(paste the command)
+
+2. tell the difference between nodejs and javascript
+
+3. install a package using npm use it(show screen shot of package.json)
+
+4. git command to reset a commit
+
+5. write a simple program in javascript and run it using nodejs.

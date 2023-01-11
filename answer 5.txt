@@ -1,9 +1,10 @@
-5. Steps you followed to connect github repo to your local repo.
+5. write a simple program in javascript and run it using nodejs.
 
-steps are : 
+javascript program (script.js):
 
- Create a new repository on GitHub 
-Open Terminal working directory to your local project
-Use the init command to initialize the local directory -> //  git init
-Add the files  ->  // git add .
- now run //  git remote add origin <REMOTE_URL from the github>
+console.log("Prince kumar"); 
+
+to run  using node js 
+open terminal in that directory 
+
+run -> node node .\script.js
