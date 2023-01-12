@@ -1,0 +1,8 @@
+6. why should we use let in place of var in our javascript programs?
+
+because var is the globle variable  that can be access  by any where 
+
+but  Let is the type of variable that is limited to the scope of the block statment 
+that can not access out of the scope 
+
+

@@ -1,0 +1,11 @@
+5. write program to show how to append, pop and sort elements in array in javascript.
+
+
+<script>
+const name = ["prince", "adarsh", "akash", "anshul"];
+name.pop();
+name.append("hello");
+name.sort()
+
+
+</script>

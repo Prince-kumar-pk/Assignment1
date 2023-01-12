@@ -1,0 +1,13 @@
+1. explaing the architecture of nodejs 
+
+In the architecture of node js  there are three part 
+1. call stack 
+2. Node js api 
+3. Call stack Queue 
+
+
+working:
+
+ initializes the event loop, processes the provided input script and put into the call stack it exicute the sync part of the code and the async part of the code goes to the node api  and sort according to the less execution time and push into the call Queue and in the order of FIFO  from the Queue it push back into the call stack  and then execute. 
+
+ 

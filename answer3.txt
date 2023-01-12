@@ -1,0 +1,33 @@
+3. create a array and object in javascript and print it.
+Array in javaScript :
+<script>
+const names = ["Prince", "Adarsh", "akash"];  // array 
+console.log(names[0]);
+</script>
+
+as array is already a n object in javascript
+
+
+
+but  we can create with another example for oblect  with key value pair
+
+<script>
+let person = {
+  firstName : "John",
+  lastName  : "Doe",
+  age     : 50,
+  eyeColor  : "blue"
+};
+console.log(person.firstName);
+;
+</script>
+
+
+there is one another type that is object array using json 
+
+<script>
+      let arr = [{name: "Prince", rank: 1}, {name: "Grapes", rank: 2},
+      {name: "Apple", rank: 3}];
+      console.log( JSON.stringify(arr,
+      null, 4);) ;
+   </script>

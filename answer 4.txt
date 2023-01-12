@@ -1,5 +1,0 @@
-4. git command to reset a commit
-
-
-$ git reset --hard HEAD~ 
-

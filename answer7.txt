@@ -1,0 +1,10 @@
+7. explain about all the primitive data types in javascript.
+
+The Primitive Data types in JavaScript are:
+ Number,
+  String,
+ Boolean,
+ Undefined,
+Null,
+bigint,
+and Symbol

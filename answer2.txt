@@ -1,11 +1,9 @@
-2. tell the difference between nodejs and javascript
+2. explain the feature of nodejs like non-blocking, synchronous, single threaded.
+
+non-blocking->   Proceeds  the execution of the program instead of waiting for long I/O operations or  for any other operation  like the request from the server 
 
 
-Javascript is a programming language  used for writing scripts on the website. 
- 
-NodeJS is an environment  to run  Javascript 
+synchronous->  Synchronous code runs in sequence  
+each operation musht have to wait for the previous operation to complete before executing  current operation
 
-without nodejs javascript only run in browser 
-but with the help of node js we can run javascript outside the brouser 
-
-
+single threaded->  js is  single threaded because it has only one call stack 

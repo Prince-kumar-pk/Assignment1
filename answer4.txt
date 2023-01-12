@@ -1,0 +1,6 @@
+4. Nowadays how data is transferred between server and client?(explain about json)
+
+
+Now a days data is used toransfered from server to the clint  with Json 
+
+Json is the formate that is used to transmit structured  data between a server and web applications over network connection
